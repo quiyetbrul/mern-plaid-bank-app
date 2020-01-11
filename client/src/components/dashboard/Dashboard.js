@@ -57,7 +57,7 @@ const Dashboard = () => {
                                     "btn btn-large waves-effect waves-light hoverable blue accent-3 main-btn"
                             }}
                             plaidLinkProps={{
-                                clientName: "Paul's Bank",
+                                clientName: "Quiyet's Bank",
                                 key: "bea5e0b34064dedfdea72d151fb8ac",
                                 env: "sandbox",
                                 product: ["transactions"],

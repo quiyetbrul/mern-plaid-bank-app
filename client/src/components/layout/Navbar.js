@@ -14,7 +14,7 @@ const Navbar = () => {
                         className="col s5 brand-logo center black-text"
                     >
                         <i className="material-icons">code</i>
-                        PAUL'S BANK
+                        Quiyet'S BANK
                     </Link>
                 </div>
             </nav>

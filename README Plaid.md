@@ -497,7 +497,7 @@ const Dashboard = () => {
                                     "btn btn-large waves-effect waves-light hoverable blue accent-3 main-btn"
                             }}
                             plaidLinkProps={{
-                                clientName: "Paul's Bank",
+                                clientName: "Quiyet's Bank",
                                 key: "557f9aa663c8330e7d6e22b6cf4d1b",
                                 env: "development",
                                 product: ["transactions"],
@@ -639,7 +639,7 @@ const Accounts = (props) => {
                             "btn btn-large waves-effect waves-light hoverable blue accent-3 main-btn"
                     }}
                     plaidLinkProps={{
-                        clientName: "Paul's Bank",
+                        clientName: "Quiyet's Bank",
                         key: "557f9aa663c8330e7d6e22b6cf4d1b",
                         env: "development",
                         product: ["transactions"],
